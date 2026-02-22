@@ -1,0 +1,126 @@
+ad,anh
+a,anh
+e,em
+vs,với
+dc,được
+đc,được
+k,không
+ko,không
+kg,không
+hok,không
+khong,không
+kh,không
+kô,không
+hông,không
+j,gì
+cx,cũng
+cug,cũng
+mk,mình
+mik,mình
+mn,mọi người
+mng,mọi người
+ng,người
+nguoi,người
+ngta,người ta
+bik,biết
+bít,biết
+bt,biết
+b,biết
+nc,nói chuyện
+nt,nhắn tin
+ok,được
+oki,được rồi
+okie,được rồi
+oke,được
+r,rồi
+rùi,rồi
+rồy,rồi
+wá,quá
+wa,quá
+qá,quá
+lm,làm
+lam,làm
+hơm,không
+hem,không
+hum,không
+hjhj,hihi
+haha,haha
+hehe,hehe
+uh,ừ
+uhm,ừm
+ak,à
+ạk,ạ
+tl,trả lời
+rep,trả lời
+reply,trả lời
+zay,vậy
+v,vậy
+z,vậy
+ny,người yêu
+ck,chồng
+vk,vợ
+bồ,người yêu
+tks,cảm ơn
+thanks,cảm ơn
+thank,cảm ơn
+thnks,cảm ơn
+tk,cảm ơn
+sr,xin lỗi
+sorry,xin lỗi
+sory,xin lỗi
+xl,xin lỗi
+pic,ảnh
+picture,ảnh
+sđt,số điện thoại
+sdt,số điện thoại
+phone,điện thoại
+shop,cửa hàng
+sp,sản phẩm
+product,sản phẩm
+đt,điện thoại
+dt,điện thoại
+hotel,khách sạn
+ks,khách sạn
+check,kiểm tra
+checkin,nhận phòng
+checkout,trả phòng
+book,đặt
+booking,đặt phồng
+w,với
+ntn,như thế nào
+sao,sao
+lun,luôn
+luon,luôn
+hok,học
+hc,học
+tr,trên
+trc,trước
+truoc,trước
+sau,sau
+trog,trong
+trong,trong
+nua,nữa
+nz,nữa
+bjo,bao giờ
+bh,bao giờ
+bn,bạn
+ban,bạn
+m,mày
+t,tao
+tui,tôi
+toi,tôi
+minh,mình
+mik,mình
+mk,mình
+ms,mới
+moi,mới
+đag,đang
+dg,đang
+dang,đang
+thik,thích
+thich,thích
+uk,ừ
+uh,ừ
+u,ừ
+ntn,như thế nào
+nthế,như thế
